@@ -1,5 +1,9 @@
 ## What is vert.x?
 
+**Please note that the master branch is currently the development branch for Vert.x 3.0. For Vert.x 2, please see the 2.x branch**
+
+**Explore the (experimental, work in progress) [Vert.x 3.0 web-site](http://vert-x3.github.io/)**
+
 Vert.x is a polyglot, non-blocking, event-driven application platform that runs on the JVM.
 
 Some of the key highlights include:
@@ -20,9 +24,9 @@ Some of the key highlights include:
 
 * Vert.x can be embedded in your existing Java applications.
 
-**Please see the [website](http://vertx.io/) for full documentation and information on vert.x, which includes [project information](http://vertx.io/community.html)**
+**Please see the [Vert.x 2.x website](http://vertx.io/) for full documentation and information on Vert.x 2.x, which includes [project information](http://vertx.io/community.html)**
 
-**This is the GitHub repository for the main Vert.x main project which is an Eclipse project. For any other parts of Vert.x projects that aren't in Eclipse please look at the [vert-x organisation](https://github.com/vert-x/) on GitHub**
+**This is the GitHub repository for the main Vert.x main project which is an Eclipse project. For any other parts of Vert.x 2.x projects that aren't in Eclipse please look at the [vert-x organisation](https://github.com/vert-x/) or for Vert.x 3.x projects please look at [vert-x3 organisation](https://github.com/vert-x3/)**
 
 **Please use [Eclipse Bugzilla](https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Vertx) for any issues relating to the Vert.x main project (this project)**
 
